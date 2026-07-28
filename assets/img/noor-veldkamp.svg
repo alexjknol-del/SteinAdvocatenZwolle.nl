@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="320" height="320" role="img" aria-label="Illustratie van Noor Veldkamp, hoofdredacteur">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d9b876"/>
+      <stop offset="100%" stop-color="#b6923c"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="160" cy="160" r="160" fill="url(#bg)"/>
+
+  <!-- neck/shoulders -->
+  <path d="M100 260 Q160 220 220 260 L235 320 L85 320 Z" fill="#16233b"/>
+  <path d="M115 245 Q160 275 205 245 L205 275 Q160 300 115 275 Z" fill="#eee6d6"/>
+
+  <!-- hair back -->
+  <path d="M92 150 Q88 230 118 262 Q104 200 112 150 Z" fill="#2a2118"/>
+  <path d="M228 150 Q232 230 202 262 Q216 200 208 150 Z" fill="#2a2118"/>
+
+  <!-- neck -->
+  <rect x="140" y="196" width="40" height="34" rx="14" fill="#f0cba6"/>
+
+  <!-- face -->
+  <ellipse cx="160" cy="150" rx="62" ry="68" fill="#f6d7b0"/>
+
+  <!-- ears -->
+  <circle cx="99" cy="152" r="10" fill="#f0cba6"/>
+  <circle cx="221" cy="152" r="10" fill="#f0cba6"/>
+
+  <!-- hair top / bob -->
+  <path d="M98 140 Q92 78 160 72 Q228 78 222 140 Q222 96 160 96 Q98 96 98 140 Z" fill="#2a2118"/>
+  <path d="M96 138 Q92 190 108 226 Q100 170 104 138 Z" fill="#2a2118"/>
+  <path d="M224 138 Q228 190 212 226 Q220 170 216 138 Z" fill="#2a2118"/>
+
+  <!-- fringe -->
+  <path d="M104 118 Q160 100 216 118 Q210 104 160 100 Q110 104 104 118 Z" fill="#2a2118"/>
+
+  <!-- eyebrows -->
+  <path d="M124 140 q14 -8 26 0" stroke="#2a2118" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M170 140 q14 -8 26 0" stroke="#2a2118" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- glasses -->
+  <circle cx="137" cy="156" r="19" fill="none" stroke="#16233b" stroke-width="4"/>
+  <circle cx="183" cy="156" r="19" fill="none" stroke="#16233b" stroke-width="4"/>
+  <path d="M156 156 h8" stroke="#16233b" stroke-width="4"/>
+  <path d="M118 152 q-10 0 -12 8" stroke="#16233b" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M202 152 q10 0 12 8" stroke="#16233b" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- eyes -->
+  <circle cx="137" cy="157" r="4" fill="#2a2118"/>
+  <circle cx="183" cy="157" r="4" fill="#2a2118"/>
+
+  <!-- nose -->
+  <path d="M160 160 q4 12 -2 18" stroke="#d9a97c" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- smile -->
+  <path d="M138 190 Q160 206 182 190" stroke="#8a3b2a" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- blush -->
+  <ellipse cx="122" cy="178" rx="8" ry="5" fill="#f0a988" opacity="0.5"/>
+  <ellipse cx="198" cy="178" rx="8" ry="5" fill="#f0a988" opacity="0.5"/>
+
+  <!-- earrings -->
+  <circle cx="99" cy="164" r="3" fill="#b6923c"/>
+  <circle cx="221" cy="164" r="3" fill="#b6923c"/>
+</svg>
